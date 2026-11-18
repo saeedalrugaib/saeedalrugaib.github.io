@@ -1,6 +1,22 @@
 {
- "updated": "",
- "total": 0,
- "last28": 0,
- "countries": []
+ "updated": "2026-11-18T12:03Z",
+ "total": 4,
+ "last28": 4,
+ "countries": [
+  {
+   "code": "SA",
+   "name": "Saudi Arabia",
+   "count": 2
+  },
+  {
+   "code": "CH",
+   "name": "Switzerland",
+   "count": 1
+  },
+  {
+   "code": "ES",
+   "name": "Spain",
+   "count": 1
+  }
+ ]
 }
