@@ -1,12 +1,27 @@
 {
- "updated": "2026-11-18T16:22Z",
- "total": 97,
- "last28": 97,
+ "updated": "2026-11-18T18:07Z",
+ "total": 139,
+ "last28": 139,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 86
+   "count": 119
+  },
+  {
+   "code": "KW",
+   "name": "Kuwait",
+   "count": 4
+  },
+  {
+   "code": "QA",
+   "name": "Qatar",
+   "count": 4
+  },
+  {
+   "code": "DZ",
+   "name": "Algeria",
+   "count": 3
   },
   {
    "code": "FR",
@@ -29,11 +44,6 @@
    "count": 1
   },
   {
-   "code": "DZ",
-   "name": "Algeria",
-   "count": 1
-  },
-  {
    "code": "EG",
    "name": "Egypt",
    "count": 1
@@ -41,11 +51,6 @@
   {
    "code": "ES",
    "name": "Spain",
-   "count": 1
-  },
-  {
-   "code": "KW",
-   "name": "Kuwait",
    "count": 1
   },
   {
