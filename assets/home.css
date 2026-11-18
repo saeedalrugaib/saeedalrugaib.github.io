@@ -942,3 +942,6 @@ a.bio-it:hover .bio-go{transform:translateX(-4px)}
 .bio-cvv svg{width:24px;height:24px}
 .bio-cvv b{font-size:15.5px;line-height:1.4}
 .bio-cvv small{font-size:11.5px;opacity:.8;line-height:1.4}
+
+/* لوحة الإحصاءات تحت تنبيه التيليقرام: مسافة طبيعية بدل التداخل */
+.home .note-wrap:has(.tg-note:not([hidden])) + .stats-wrap{margin-top:18px}
