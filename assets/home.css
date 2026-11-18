@@ -946,3 +946,5 @@ a.bio-it:hover .bio-go{transform:translateX(-4px)}
 /* لوحة الإحصاءات تحت تنبيه التيليقرام: مسافة طبيعية بدل التداخل */
 .home .note-wrap:has(.tg-note:not([hidden])) + .stats-wrap{margin-top:18px}
 .home .note-wrap.on + .stats-wrap{margin-top:18px!important}
+/* صفوف الكتب (الأكثر قراءة): محاذاة الأغلفة من الأعلى مهما اختلف طول العنوان */
+.home .row{align-items:start}
