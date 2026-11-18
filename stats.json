@@ -1,12 +1,17 @@
 {
- "updated": "2026-11-18T12:03Z",
- "total": 4,
- "last28": 4,
+ "updated": "2026-11-18T13:34Z",
+ "total": 17,
+ "last28": 17,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 2
+   "count": 13
+  },
+  {
+   "code": "CA",
+   "name": "Canada",
+   "count": 1
   },
   {
    "code": "CH",
@@ -16,6 +21,11 @@
   {
    "code": "ES",
    "name": "Spain",
+   "count": 1
+  },
+  {
+   "code": "NL",
+   "name": "Netherlands",
    "count": 1
   }
  ]
