@@ -1,12 +1,22 @@
 {
- "updated": "2026-11-18T13:34Z",
- "total": 17,
- "last28": 17,
+ "updated": "2026-11-18T15:15Z",
+ "total": 67,
+ "last28": 67,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 13
+   "count": 57
+  },
+  {
+   "code": "FR",
+   "name": "France",
+   "count": 2
+  },
+  {
+   "code": "US",
+   "name": "United States",
+   "count": 2
   },
   {
    "code": "CA",
@@ -19,8 +29,18 @@
    "count": 1
   },
   {
+   "code": "EG",
+   "name": "Egypt",
+   "count": 1
+  },
+  {
    "code": "ES",
    "name": "Spain",
+   "count": 1
+  },
+  {
+   "code": "KW",
+   "name": "Kuwait",
    "count": 1
   },
   {
