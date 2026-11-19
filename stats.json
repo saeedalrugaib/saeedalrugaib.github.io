@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19T16:24Z",
- "total": 290,
- "last28": 290,
+ "updated": "2026-11-19T18:08Z",
+ "total": 299,
+ "last28": 299,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 249
+   "count": 255
   },
   {
    "code": "KW",
@@ -16,12 +16,12 @@
   {
    "code": "DZ",
    "name": "Algeria",
-   "count": 6
+   "count": 7
   },
   {
    "code": "QA",
    "name": "Qatar",
-   "count": 5
+   "count": 6
   },
   {
    "code": "US",
@@ -56,6 +56,11 @@
   {
    "code": "CH",
    "name": "Switzerland",
+   "count": 1
+  },
+  {
+   "code": "DE",
+   "name": "Germany",
    "count": 1
   },
   {
