@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19T21:08Z",
- "total": 307,
- "last28": 307,
+ "updated": "2026-11-19T22:07Z",
+ "total": 314,
+ "last28": 314,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 261
+   "count": 267
   },
   {
    "code": "KW",
@@ -36,6 +36,11 @@
   {
    "code": "FR",
    "name": "France",
+   "count": 2
+  },
+  {
+   "code": "JO",
+   "name": "Hashemite Kingdom of Jordan",
    "count": 2
   },
   {
@@ -76,11 +81,6 @@
   {
    "code": "ID",
    "name": "Indonesia",
-   "count": 1
-  },
-  {
-   "code": "JO",
-   "name": "Hashemite Kingdom of Jordan",
    "count": 1
   },
   {
