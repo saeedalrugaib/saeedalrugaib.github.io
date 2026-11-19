@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19T01:34Z",
- "total": 183,
- "last28": 183,
+ "updated": "2026-11-19T03:09Z",
+ "total": 186,
+ "last28": 186,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 157
+   "count": 159
   },
   {
    "code": "DZ",
@@ -56,6 +56,11 @@
   {
    "code": "ES",
    "name": "Spain",
+   "count": 1
+  },
+  {
+   "code": "MY",
+   "name": "Malaysia",
    "count": 1
   },
   {
