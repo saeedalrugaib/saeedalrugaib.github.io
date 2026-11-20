@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T05:23Z",
- "total": 329,
- "last28": 329,
+ "updated": "2026-11-20T07:39Z",
+ "total": 330,
+ "last28": 330,
  "countries": [
   {
    "code": "SA",
@@ -56,6 +56,11 @@
   {
    "code": "AE",
    "name": "United Arab Emirates",
+   "count": 1
+  },
+  {
+   "code": "BH",
+   "name": "Bahrain",
    "count": 1
   },
   {
