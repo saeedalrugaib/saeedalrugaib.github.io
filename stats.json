@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T12:16Z",
- "total": 0,
- "last28": 335,
+ "updated": "2026-11-20T13:38Z",
+ "total": 339,
+ "last28": 339,
  "countries": [
   {
    "code": "SA",
@@ -19,19 +19,24 @@
    "count": 7
   },
   {
-   "code": "QA",
-   "name": "Qatar",
-   "count": 6
-  },
-  {
    "code": "XK",
    "name": "Kosovo",
+   "count": 7
+  },
+  {
+   "code": "QA",
+   "name": "Qatar",
    "count": 6
   },
   {
    "code": "US",
    "name": "United States",
    "count": 5
+  },
+  {
+   "code": "AE",
+   "name": "United Arab Emirates",
+   "count": 3
   },
   {
    "code": "EG",
@@ -52,11 +57,6 @@
    "code": "MA",
    "name": "Morocco",
    "count": 2
-  },
-  {
-   "code": "AE",
-   "name": "United Arab Emirates",
-   "count": 1
   },
   {
    "code": "BH",
@@ -86,6 +86,11 @@
   {
    "code": "ID",
    "name": "Indonesia",
+   "count": 1
+  },
+  {
+   "code": "LY",
+   "name": "Libya",
    "count": 1
   },
   {
