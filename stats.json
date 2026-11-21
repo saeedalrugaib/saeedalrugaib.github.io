@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-21T17:57Z",
- "total": 363,
- "last28": 363,
+ "updated": "2026-11-21T19:09Z",
+ "total": 366,
+ "last28": 366,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 304
+   "count": 305
   },
   {
    "code": "KW",
@@ -29,14 +29,14 @@
    "count": 6
   },
   {
-   "code": "US",
-   "name": "United States",
+   "code": "EG",
+   "name": "Egypt",
    "count": 5
   },
   {
-   "code": "EG",
-   "name": "Egypt",
-   "count": 4
+   "code": "US",
+   "name": "United States",
+   "count": 5
   },
   {
    "code": "AE",
@@ -44,13 +44,13 @@
    "count": 3
   },
   {
-   "code": "FR",
-   "name": "France",
-   "count": 2
-  },
-  {
    "code": "JO",
    "name": "Hashemite Kingdom of Jordan",
+   "count": 3
+  },
+  {
+   "code": "FR",
+   "name": "France",
    "count": 2
   },
   {
