@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T16:00Z",
- "total": 359,
- "last28": 359,
+ "updated": "2026-11-21T17:02Z",
+ "total": 360,
+ "last28": 360,
  "countries": [
   {
    "code": "SA",
@@ -14,13 +14,13 @@
    "count": 9
   },
   {
-   "code": "DZ",
-   "name": "Algeria",
-   "count": 7
-  },
-  {
    "code": "XK",
    "name": "Kosovo",
+   "count": 8
+  },
+  {
+   "code": "DZ",
+   "name": "Algeria",
    "count": 7
   },
   {
