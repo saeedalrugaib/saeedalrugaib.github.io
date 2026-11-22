@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T15:06Z",
- "total": 382,
- "last28": 382,
+ "updated": "2026-11-22T16:00Z",
+ "total": 384,
+ "last28": 384,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 321
+   "count": 322
   },
   {
    "code": "KW",
@@ -49,6 +49,11 @@
    "count": 3
   },
   {
+   "code": "BH",
+   "name": "Bahrain",
+   "count": 2
+  },
+  {
    "code": "FR",
    "name": "France",
    "count": 2
@@ -57,11 +62,6 @@
    "code": "MA",
    "name": "Morocco",
    "count": 2
-  },
-  {
-   "code": "BH",
-   "name": "Bahrain",
-   "count": 1
   },
   {
    "code": "CA",
