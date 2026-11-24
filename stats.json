@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T07:45Z",
- "total": 396,
- "last28": 396,
+ "updated": "2026-11-24T12:17Z",
+ "total": 397,
+ "last28": 397,
  "countries": [
   {
    "code": "SA",
@@ -39,6 +39,11 @@
    "count": 5
   },
   {
+   "code": "JO",
+   "name": "Hashemite Kingdom of Jordan",
+   "count": 4
+  },
+  {
    "code": "TN",
    "name": "Tunisia",
    "count": 4
@@ -46,11 +51,6 @@
   {
    "code": "AE",
    "name": "United Arab Emirates",
-   "count": 3
-  },
-  {
-   "code": "JO",
-   "name": "Hashemite Kingdom of Jordan",
    "count": 3
   },
   {
